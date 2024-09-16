@@ -1,0 +1,28 @@
+/* Center the entire navbar container */
+.navbar-container {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically if needed */
+  margin: 0 auto; /* Center the container if its width is less than the parent */
+}
+
+/* Style the nav-pills to be displayed inline and centered */
+.nav-pills {
+  display: flex;
+  justify-content: center; /* Center the nav items horizontally */
+  list-style-type: none; /* Remove default list styling */
+  padding-left: 0; /* Remove default padding */
+  margin-bottom: 0; /* Remove bottom margin */
+}
+
+/* Style for each nav item */
+.nav-item {
+  margin: 0 5px; /* Space between nav items */
+}
+
+/* Style for nav link buttons */
+.nav-link {
+  padding: 10px 20px; /* Adjust padding as needed */
+  border-radius: 4px; /* Optional: Rounded corners */
+  text-align: center; /* Center text within buttons */
+}
