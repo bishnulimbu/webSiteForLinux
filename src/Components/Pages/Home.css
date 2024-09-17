@@ -19,10 +19,11 @@
   color: lightgray;
 }
 .custom-carousel {
-  width: 75%; /* Adjust the width (e.g., 75% of the parent container) */
-  max-width: 800px; /* Optional: Set a maximum width */
-  height: 400px; /* Set the desired height */
-  margin: 0 auto; /* Center the carousel horizontally */
+  width: 100%; /* Adjust the width (e.g., 75% of the parent container) */
+  max-width: 1080px; /* Optional: Set a maximum width */
+  height: auto; /* Set the desired height */
+  margin: auto; /* Center the carousel horizontally */
+  padding: 2rem;
 }
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
