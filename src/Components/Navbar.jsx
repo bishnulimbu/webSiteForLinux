@@ -18,7 +18,7 @@ const NavBar = () => {
         </button>
         <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
           <a className="navbar-brand" href="#">
-            Hidden brand
+            LAM
           </a>
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             <li className="nav-item">
@@ -66,6 +66,7 @@ const NavBar = () => {
               </ul>
             </li>
           </ul>
+          <h1>Search Here for specifics-></h1>
           <form
             className="d-flex"
             role="search"
