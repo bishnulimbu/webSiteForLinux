@@ -19,11 +19,14 @@
   color: lightgray;
 }
 .custom-carousel {
-  width: 100%; /* Adjust the width (e.g., 75% of the parent container) */
-  max-width: 1080px; /* Optional: Set a maximum width */
-  height: auto; /* Set the desired height */
-  margin: auto; /* Center the carousel horizontally */
-  padding: 2rem;
+  /* width: 100%; /* Adjust the width (e.g., 75% of the parent container) */ */
+  width:100vw;
+  /* height:100vh; */
+  /* max-width: 1080px; /* Optional: Set a maximum width */ */
+  /* height: auto; /* Set the desired height */ */
+  /* margin: auto; /* Center the carousel horizontally */ */
+  margin:auto;
+  padding: auto;
 }
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
