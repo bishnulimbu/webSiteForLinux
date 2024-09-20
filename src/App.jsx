@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./Components/Pages/Home";
 import InfoOne from "./Components/Pages/InfoOne";
 import BreadCrum from "./Components/BreadCrum";
+import CategoryItem from "./Components/Pages/CategoryItem";
 
 function App() {
   return (
@@ -17,6 +18,13 @@ function App() {
         </Routes>
         <InfoOne />
         {/* <BreadCrum /> */}
+        <div className="category-container">
+          <CategoryItem />
+          <CategoryItem />
+          <CategoryItem />
+          <CategoryItem />
+          <CategoryItem />
+        </div>
         <Footer />
       </Router>
     </>
