@@ -66,7 +66,7 @@ const NavBar = () => {
               </ul>
             </li>
           </ul>
-          <h1>Search Here for specifics-></h1>
+          <h1>Search Here for specifics 👌</h1>
           <form
             className="d-flex"
             role="search"
