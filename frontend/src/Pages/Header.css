@@ -1,0 +1,67 @@
+/* Header.css */
+
+/* Styling the header container */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #eeeeee;
+  padding: 0.3rem;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Title (Linux Website) */
+.header p {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+
+/* Link container and links */
+.link-container {
+  display: flex;
+  gap: 20px;
+}
+
+.link-container a {
+  text-decoration: none;
+  font-size: 18px;
+  transition: color 0.3s ease;
+}
+
+.link-container a:hover {
+  color: #1db954; /* Green hover effect */
+}
+
+/* Search form styling */
+form {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+/* Input box styling */
+form input {
+  padding: 8px 12px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+}
+
+/* Search button styling */
+form button {
+  padding: 8px 16px;
+  font-size: 16px;
+  background-color: #1db954;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+form button:hover {
+  background-color: #17a34a; /* Slightly darker green on hover */
+}
