@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "title": "LFCS - Working With Swap Memory",
+      "author": "Jarret B",
+      "date": "Wednesday at 12:05 PM",
+      "views": 611,
+      "comments": 0,
+      "content": "Some people may work on systems that do not have enough Random Access Memory (RAM) to run all the programs you want to be running. To manage this, you can have a swap file or swap partition.",
+      "day": 23,
+      "month": "OCT",
+      "avatar": "/avatars/jarret.jpg"
+    },
+    {
+      "title": "Understanding Linux File Permissions",
+      "author": "Sarah K",
+      "date": "Tuesday at 3:45 PM",
+      "views": 842,
+      "comments": 5,
+      "content": "File permissions are a crucial aspect of Linux system security. In this guide, we'll explore how to read, modify, and manage file permissions effectively using chmod and chown commands.",
+      "day": 22,
+      "month": "OCT",
+      "avatar": "/avatars/sarah.jpg"
+    },
+    {
+      "title": "Docker Container Basics - LFCS Guide",
+      "author": "Mike R",
+      "date": "Monday at 9:15 AM",
+      "views": 723,
+      "comments": 3,
+      "content": "Docker containers provide a consistent and isolated environment for your applications. Learn how to create, manage, and deploy Docker containers as part of your LFCS certification preparation.",
+      "day": 21,
+      "month": "OCT",
+      "avatar": "/avatars/mike.jpg"
+    },
+    {
+      "title": "Network Configuration in Linux",
+      "author": "Elena M",
+      "date": "Sunday at 2:30 PM",
+      "views": 556,
+      "comments": 2,
+      "content": "Master the essential networking tools and commands in Linux. From IP configuration to network troubleshooting, this guide covers everything you need to know for the LFCS exam.",
+      "day": 20,
+      "month": "OCT",
+      "avatar": "/avatars/elena.jpg"
+    },
+    {
+      "title": "System Services and Systemd",
+      "author": "Chris P",
+      "date": "Saturday at 11:20 AM",
+      "views": 934,
+      "comments": 7,
+      "content": "Understanding systemd is crucial for modern Linux administration. Learn how to manage services, view logs, and configure system units effectively.",
+      "day": 19,
+      "month": "OCT",
+      "avatar": "/avatars/chris.jpg"
+    },
+    {
+      "title": "LVM Management and Storage",
+      "author": "Alex T",
+      "date": "Friday at 4:50 PM",
+      "views": 677,
+      "comments": 4,
+      "content": "Logical Volume Management (LVM) offers flexible disk space management in Linux. Explore how to create, extend, and manage logical volumes for optimal storage utilization.",
+      "day": 18,
+      "month": "OCT",
+      "avatar": "/avatars/alex.jpg"
+    }
+  ]
+}
